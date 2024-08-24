@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SCA_Login</string>
+
+    <string-array name="opciones_admin">
+        <item>Inicio</item>
+        <item>Asignaturas</item>
+        <item>Cursos</item>
+        <item>Estudiantes</item>
+        <item>Profesores</item>
+    </string-array>
+
+    <string name="preservation_prompt">Inicio</string>
+
+</resources>
+
